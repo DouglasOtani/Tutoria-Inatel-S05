@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[42965,["/Tutoria-Inatel-S05/_next/static/chunks/0f1~ra-~n2rb7.js","/Tutoria-Inatel-S05/_next/static/chunks/0d3shmwh5_nmn.js","/Tutoria-Inatel-S05/_next/static/chunks/13.phtsl1fso9.js","/Tutoria-Inatel-S05/_next/static/chunks/0wq-xyqbcfjqr.js"],"SearchTutorsScreen"]
+3:I[97367,["/Tutoria-Inatel-S05/_next/static/chunks/0f1~ra-~n2rb7.js","/Tutoria-Inatel-S05/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/Tutoria-Inatel-S05/_next/static/chunks/08pm30mz_vkug.css","style"]
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/Tutoria-Inatel-S05/_next/static/chunks/08pm30mz_vkug.css","precedence":"next"}],["$","script","script-0",{"src":"/Tutoria-Inatel-S05/_next/static/chunks/13.phtsl1fso9.js","async":true}],["$","script","script-1",{"src":"/Tutoria-Inatel-S05/_next/static/chunks/0wq-xyqbcfjqr.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"D84_y1vH1N5nwsL2X1ifS"}
+5:null
