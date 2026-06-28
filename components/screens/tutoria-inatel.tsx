@@ -67,7 +67,7 @@ export function TutoriaInatel() {
 				<div className="max-w-lg mx-auto md:max-w-2xl lg:max-w-4xl">
 					<header className="flex items-center justify-between px-4 py-3 md:py-6">
 						<img
-							src="/inatel-logo.png"
+							src={`${process.env.NEXT_PUBLIC_BASE_PATH}/inatel-logo.png`}
 							alt="Inatel"
 							className="h-6 w-auto max-w-[72px] object-contain md:hidden"
 						/>
