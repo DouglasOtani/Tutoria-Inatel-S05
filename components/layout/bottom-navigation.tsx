@@ -67,7 +67,7 @@ export function BottomNavigation() {
 		<nav className="fixed bottom-0 inset-x-0 z-50 bg-azul-inatel md:relative md:inset-auto md:z-auto md:border-r md:border-gray-200 md:w-64 md:min-h-screen md:flex md:flex-col md:shrink-0 md:pt-6">
 			<div className="hidden md:flex md:items-center md:justify-center md:pb-6 md:px-4 md:border-b md:border-blue-700">
 				<img
-					src="/inatel-logo.png"
+					src={`${process.env.NEXT_PUBLIC_BASE_PATH}/inatel-logo.png`}
 					alt="Inatel Logo"
 					className="h-10 w-auto max-w-[160px] object-contain"
 				/>
